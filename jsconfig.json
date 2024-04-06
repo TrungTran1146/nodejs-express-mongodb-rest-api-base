@@ -1,0 +1,8 @@
+//Trung Tran 
+{
+  "compilerOptions": {
+    "paths": {
+      "~/*": ["./src/*"],
+    },
+  }
+}
